@@ -43,7 +43,7 @@
         { "spanish": "hacer", "english": ["do", "make"] },
         { "spanish": "su", "english": ["their", "his"] },
         { "spanish": "tiempo", "english": ["time", "weather"] },
-        { "spanish": "si", "english": "if" },
+        { "spanish": "si", "english": ["if", "yes"] },
         { "spanish": "lo hará", "english": "will" },
         { "spanish": "cómo", "english": "how" },
         { "spanish": "dicho", "english": "said" },
