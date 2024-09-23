@@ -43,8 +43,7 @@
         { "spanish": "hacer", "english": ["do", "make"] },
         { "spanish": "su", "english": ["their", "his"] },
         { "spanish": "tiempo", "english": ["time", "weather"] },
-        { "spanish": "sí", "english": ["yes"] },
-        { "spanish": "si", "english": ["if" },
+        { "spanish": "si", "english": "if" },
         { "spanish": "lo hará", "english": "will" },
         { "spanish": "cómo", "english": "how" },
         { "spanish": "dicho", "english": "said" },
@@ -249,4 +248,3 @@
         { "spanish": "norte", "english": "north" }
     ]
   }
-  
